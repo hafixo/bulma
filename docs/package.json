@@ -13,7 +13,7 @@
     "metalsmith": "^2.3.0",
     "metalsmith-filter": "^1.0.2",
     "node-sass": "^4.13.1",
-    "postcss-cli": "^7.1.0"
+    "postcss-cli": "^7.1.2"
   },
   "scripts": {
     "css-build": "npm run css-sass && npm run css-autoprefix && npm run css-cleancss",
